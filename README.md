@@ -16,6 +16,8 @@ Upload a chest X-ray and get an instant diagnosis — Normal or Pneumonia Detect
 
 ---
 
+![PneumoScan Preview](assets/preview.jpg)
+
 ## 📊 Dataset
 
 - **Source:** [Chest X-Ray Images (Pneumonia) — Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
